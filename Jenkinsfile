@@ -23,7 +23,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/YuliiaKurylchyk/cloudTechnologies.git"
+                            git "https://github.com/SokilMisha/cloudTechnologies.git"
                         }
                     }
                 }
